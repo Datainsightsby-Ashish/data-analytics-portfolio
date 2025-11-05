@@ -1,6 +1,6 @@
 # Project 1 — EDA
 
-###Netflix Catalog Analysis (EDA)
+### Netflix Catalog Analysis (EDA)
 
 ### Objective
 Analyze Netflix’s catalog to uncover patterns in content type, audience targeting, country contribution, release trends, and growth.

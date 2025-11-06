@@ -42,16 +42,3 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Google Colab
 2) Mount Drive.
 3) Update the `path` to your file location if needed.
 4) Run cells top-to-bottom.
-
-### Folder Structure
-
-   01_EDA_Project/
-│
-├── Netflix_EDA.ipynb
-├── README.md
-├── figures/
-│ ├── netflix_growth.png
-│ ├── top_genres.png
-│ ├── movies_vs_shows.png
-│ ├── ratings_top10.png
-│ ├── ...

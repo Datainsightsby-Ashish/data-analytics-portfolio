@@ -50,12 +50,6 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Google Colab
 01_EDA_Project/
 │
 
-├── Netflix_EDA.ipynb
-
-├── README.md
-
-├── netflix_titles.csv
-
 └── figures/
 
   ├── 01_composition_movies_vs_tvshows.png
@@ -73,6 +67,13 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Google Colab
   ├── 07_type_trend_over_time.png
 
   ├── 08_top_genres.png
+
+├── Netflix_EDA.ipynb
+
+├── README.md
+
+├── netflix_titles.csv
+
 
 
 

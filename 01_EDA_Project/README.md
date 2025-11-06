@@ -17,7 +17,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Google Colab
 6. How do release years compare to year added?  
 7. What are the top genres?
 
-### 🧠 Key Insights
+### Key Insights
 - ~70% Movies, 30% TV Shows — shifting toward serial content.  
 - Majority **TV-MA / TV-14** → adult/teen focus.  
 - Dominated by **US**, **India**, **UK**, **Japan**, **Korea**.  

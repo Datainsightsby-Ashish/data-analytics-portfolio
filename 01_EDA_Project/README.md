@@ -43,11 +43,14 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Google Colab
 3) Update the `path` to your file location if needed.
 4) Run cells top-to-bottom.
 
+
 ## Folder Structure
+
 
 01_EDA_Project/
 │
 ├── Netflix_EDA.ipynb
+
 ├── README.md
 ├── netflix_titles.csv
 └── figures/
@@ -59,5 +62,6 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Google Colab
 ├── 06_release_vs_added_scatter.png
 ├── 07_type_trend_over_time.png
 ├── 08_top_genres.png
+
 
 

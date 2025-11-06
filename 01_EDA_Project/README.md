@@ -53,16 +53,27 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Google Colab
 ├── Netflix_EDA.ipynb
 
 ├── README.md
+
 ├── netflix_titles.csv
+
 └── figures/
+
 ├── 01_composition_movies_vs_tvshows.png
+
 ├── 02_audience_top_ratings.png
+
 ├── 03_country_top10.png
+
 ├── 04_release_year_distribution.png
+
 ├── 05_platform_growth.png
+
 ├── 06_release_vs_added_scatter.png
+
 ├── 07_type_trend_over_time.png
+
 ├── 08_top_genres.png
+
 
 
 

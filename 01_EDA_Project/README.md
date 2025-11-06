@@ -49,6 +49,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Google Colab
 
 01_EDA_Project/
 │
+
 ├── Netflix_EDA.ipynb
 
 ├── README.md
